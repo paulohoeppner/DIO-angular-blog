@@ -1,12 +1,20 @@
-# <div align="center">**Potência Tech Angular Developer - Powered by iFood**</div>
+# <div align="center">**Blog com Angular**</div>
 
-<div align="center">
-    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\potencia_tech-logo.jpg" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
+<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
 </div>
 
-## <div align="center">**BOOTCAMP DIO**</div>     
+<div align="center"> 
+    <img align="center" src="assets\images\PotenciaTech-logo.png" width="100" height="" hspace="">
+    <img align="center" src="assets\images\ifood-logo.png" width="100" height="" hspace="">
+    <img  align="center" src="assets\images\santander-logo.png" width="200" height="" hspace=""style="margin-left: 40px">
+</div>
+
+<div align="center">
+<img align="center" src="assets\images\angular-developer.png" width="150" height="" hspace="">
+<img align="center" src="assets\images\bootcamp-santander.png" width="150" height="" hspace="" style="margin-left: 100px">
+</div>
+<br><br>
+
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
@@ -18,24 +26,24 @@
 </div>
 <br>
 
-</p>
-<div align="center">
-    <img src="https://img.shields.io/badge/IN%C3%8DCIO-14%2F03%2F2023-green" hspace="5"/>
-    <img src="https://img.shields.io/badge/T%C3%89RMINO-30%2F05%2F2023-red" hspace="5"/>
-</div>
-<br>
-
 ## Introdução
 Olá,
 
 Esse repositório corresponde ao projeto 
 "Criando um Blog com Angular" da [DIO](https://www.dio.me/) (Digital Innovation One).
+<hr>
 
 ## Objetivo
 
-Esse projeto tem como objetivo montar um blog utilizando o framework Angular. Inicialmente temos o projeto base by [Felipe Aguiar](https://github.com/felipeAguiarCode).
+Crição de uma aplicação de blog funcional, construção de componentes inteligentes e organização do projeto Angular utilizando as ferramentas que o próprio framework Oferece.
 
-Próximos passos, realizar futuras atualizações para evolução do projeto inicial utilizando a mesma estrutura.
+Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
+<hr>
+
+## Próximos passos
+
+Realizar futuras implementações para evolução do projeto inicial (projeto base), tais como, implementações adicionais e talvez explorar um domínio de aplicação diferente.
+<hr>
 
 ## Tecnologias Utilizadas
 
@@ -44,13 +52,26 @@ Próximos passos, realizar futuras atualizações para evolução do projeto ini
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="15" hspace="5" style="margin-left: 10px"/>
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="15" hspace="5" style="margin-left: 10px"/>
 - Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="15" hspace="5" style="margin-left: 10px"/>
-          
+<hr>          
 
 ## Cursos Envolvidos
-### **Bootcamp Potência Tech Angular Developer - Powered by iFood** 
-#### **Ganhando Produtividade com a Plataforma Angular:**
+### Bootcamp:
+ - Potência Tech Angular Developer - Powered by iFood
+- Santander Bootcamp 2023 - Fullstack Java+Angular
 
-- Criando um Blog com Angular
+    #### **Ganhando Produtividade com a Plataforma Angular:**
+
+    - Criando um Blog com Angular
+<hr>
+
+## Repositório Original do GitHub
+
+Referência direta ao código-fonte original.
+
+- Felipe Aguiar: [felipeAguiarCode](https://github.com/felipeAguiarCode)
+
+- Endereço: [angular-blog](https://github.com/felipeAguiarCode/angular-blog)
+<hr>
 
 ## Agradecimentos
 Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compatilhar seu conhecimento. 
