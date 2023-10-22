@@ -1,20 +1,20 @@
 # <div align="center">**Blog com Angular**</div>
 
-<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
+<div align="center"> 
+    <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
 </div>
-
+<br><br>
 <div align="center"> 
     <img align="center" src="assets\images\PotenciaTech-logo.png" width="100" height="" hspace="">
     <img align="center" src="assets\images\ifood-logo.png" width="100" height="" hspace="">
-    <img  align="center" src="assets\images\santander-logo.png" width="200" height="" hspace=""style="margin-left: 40px">
-</div>
-
-<div align="center">
-<img align="center" src="assets\images\angular-developer.png" width="150" height="" hspace="">
-<img align="center" src="assets\images\bootcamp-santander.png" width="150" height="" hspace="" style="margin-left: 100px">
+    <img  align="center" src="assets\images\santander-logo.png" width="250" height="" hspace=""style="margin-left: 40px">
 </div>
 <br><br>
-
+<div align="center">
+<img align="center" src="assets\images\angular-developer.png" width="150" height="" hspace="">
+<img align="center" src="assets\images\bootcamp-santander.png" width="150" height="" hspace="15" style="margin-left: 100px">
+</div>
+<br><br>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
@@ -35,7 +35,7 @@ Esse repositório corresponde ao projeto
 
 ## Objetivo
 
-Crição de uma aplicação de blog funcional, construção de componentes inteligentes e organização do projeto Angular utilizando as ferramentas que o próprio framework Oferece.
+Criação de uma aplicação de blog funcional, construção de componentes inteligentes e organização do projeto Angular utilizando as ferramentas que o próprio framework Oferece.
 
 Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
 <hr>
@@ -47,8 +47,8 @@ Realizar futuras implementações para evolução do projeto inicial (projeto ba
 
 ## Tecnologias Utilizadas
 
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="15" hspace="5" style="margin-left: 5px"/>
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" height="15" hspace="5" style="margin-left: 5px"/> 
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="15" hspace="5" style="margin-left: 5px"/>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="110" height="15" hspace="5" style="margin-left: 5px"/> 
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="15" hspace="5" style="margin-left: 10px"/>
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="15" hspace="5" style="margin-left: 10px"/>
 - Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="15" hspace="5" style="margin-left: 10px"/>
@@ -74,7 +74,7 @@ Referência direta ao código-fonte original.
 <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compatilhar seu conhecimento. 
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compartilhar seu conhecimento. 
 
 
 
